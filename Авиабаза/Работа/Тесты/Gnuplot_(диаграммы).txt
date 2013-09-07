@@ -5,4 +5,5 @@ Creation-Date: 2013-09-08T03:29:23+04:00
 ====== Gnuplot (диаграммы) ======
 Created Воскресенье 08 Сентябрь 2013
 
-ПримерыЖ
+Примеры: http://www.gnuplot.info/screenshots/index.html#demos
+
