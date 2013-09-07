@@ -7,3 +7,4 @@ Created Воскресенье 08 Сентябрь 2013
 
 {{./equation.png?type=equation}}
 
+{{./equation001.png?type=equation}}
