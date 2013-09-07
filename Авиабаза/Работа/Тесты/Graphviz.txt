@@ -5,3 +5,4 @@ Creation-Date: 2013-09-08T03:22:37+04:00
 ====== Graphviz ======
 Created Воскресенье 08 Сентябрь 2013
 
+{{./diagram.png?type=diagram}}
