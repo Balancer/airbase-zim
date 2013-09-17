@@ -2,7 +2,7 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
 Creation-Date: 2013-09-18T00:57:02+04:00
 
-====== joy ======
+====== Джойстики ======
 Created Среда 18 Сентябрь 2013
 
 #p
