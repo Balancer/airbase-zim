@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<sparkleshare>
+  <user>
+    <name>Roman =Balancer= Karshiev</name>
+    <email>balancer@balancer.ru</email>
+  </user>
+  <notifications>False</notifications>
+  <folder>
+    <name>airbase-site</name>
+    <url>ssh://airbase-dev@airbase.ru/var/repos/git/airbase-dev/airbase-site</url>
+    <backend>Git</backend>
+  </folder>
+  <folder>
+    <name>zim-airbase.git</name>
+    <identifier>086e4fc01d6312be573df2f803e808954634956d</identifier>
+    <url>ssh://git@github.com/Balancer/zim-airbase.git</url>
+    <backend>Git</backend>
+  </folder>
+</sparkleshare>
