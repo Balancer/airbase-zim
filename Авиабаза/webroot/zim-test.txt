@@ -1,0 +1,7 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2013-09-23T02:18:59+04:00
+
+====== zim-test ======
+Created Понедельник 23 Сентябрь 2013
+
