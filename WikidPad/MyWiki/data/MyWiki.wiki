@@ -1,5 +1,0 @@
-﻿++ My Wiki
-
-
-
-	* WikiSettings
