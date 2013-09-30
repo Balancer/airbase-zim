@@ -1,0 +1,40 @@
+[main]
+wikipagefiles_gracefuloutsideaddandremove = True
+indexsearch_formatno = 1
+filestorage_identity_filenamemustmatch = False
+indexsearch_enabled = False
+wiki_lastactivetabno = -1
+filestorage_identity_moddateisenough = False
+headingsasaliases_depth = 0
+tree_expandednodes_rememberduration = 2
+versioning_storagelocation = 0
+tree_expandednodes_descriptorpathes_main = 
+first_wiki_word = 
+export_default_dir = 
+tabs_maxcharacters = 0
+log_window_autoshow = Gray
+footnotes_as_wikiwords = False
+wiki_wikilanguage = wikidpad_default_2_0
+wikipagetitle_creationmode = 1
+wikipagetitleprefix = ++
+db_pagefile_suffix = .wiki
+wiki_lasttabssubctrls = 
+wiki_readonly = False
+tree_expandednodes_descriptorpathes_views = 
+hotkey_showhide_bywiki = 
+filestorage_identity_moddatemustmatch = False
+tree_force_scratchpad_visibility = True
+wikipagetitle_fromlinktitle = False
+wikipagefiles_asciionly = False
+wiki_database_type = original_sqlite
+wiki_icon = 
+versioning_completesteps = 10
+template_pagenamesre = ^template/
+further_wiki_words = 
+wiki_name = Airbase
+last_wiki_word = Airbase
+tree_last_root_wiki_word = Airbase
+
+[wiki_db]
+data_dir = data
+
