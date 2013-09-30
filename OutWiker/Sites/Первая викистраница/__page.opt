@@ -2,8 +2,11 @@
 type = wiki
 tags = проверка
 order = 0
-datetime = 2013-09-30 20:47:43.532000
+datetime = 2013-09-30 20:47:56.907000
 
 [Misc]
 pageindex = 1
+
+[wiki]
+md5_hash = 008f0294bfd271e43d8012c886976982
 
