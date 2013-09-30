@@ -2,7 +2,7 @@
 <node>
 <version>6</version>
 <dict>
-  <key>title</key><string>New Page</string>
+  <key>title</key><string>webroot</string>
   <key>nodeid</key><string>fea92731-f726-4651-b4c6-9b95612c9dcf</string>
   <key>modified_time</key><integer>1380500858</integer>
   <key>version</key><integer>6</integer>
