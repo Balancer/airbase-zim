@@ -77,4 +77,4 @@ Created Sat, 11 Sep 2004 20:29:26 +0400
 
 === Ссылки ===
 * [[http://balancer.ru/support/2003/06/t21161--obsuzhdenie-pravil-forumov.html|Обсуждение Правил на форуме]]
-* История изменений Правила на GitHub
+* [[https://github.com/Balancer/zim-airbase/commits/master/%D0%A1%D0%B0%D0%B9%D1%82%D1%8B/forums.balancer.ru/webroot/rules.txt|История изменений Правила на GitHub]]
