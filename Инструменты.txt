@@ -5,5 +5,6 @@ Creation-Date: 2013-10-02T10:11:36+04:00
 ====== Инструменты ======
 Created Wednesday 02 October 2013
 
+=== ditaa ===
 A small utility that converts ascii-art diagrams to nice-looking bitmap diagrams automatically.
 http://sourceforge.net/projects/ditaa/
