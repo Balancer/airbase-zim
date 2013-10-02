@@ -1,0 +1,17 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2013-10-02T10:11:36+04:00
+
+====== Инструменты ======
+Created Wednesday 02 October 2013
+
+=== zim ===
+This is the Windows installer for Zim Desktop Wiki, a wiki-style notebook that uses local file storage. 
+http://www.glump.net/software/zim-windows
+
+=== ditaa ===
+A small utility that converts ascii-art diagrams to nice-looking bitmap diagrams automatically.
+http://sourceforge.net/projects/ditaa/
+
+How to install ditaa plugin in Windows XP?
+https://answers.launchpad.net/zim/+question/193420
