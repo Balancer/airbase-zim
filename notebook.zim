@@ -6,7 +6,7 @@ profile=
 home=Home
 icon=~/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/photo.jpg
 document_root=None
-shared=False
+shared=True
 disable_trash=False
-interwiki=
+interwiki=\u0410\u0432\u0438\u0430\u0431\u0430\u0437\u0430
 
