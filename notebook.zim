@@ -1,8 +1,8 @@
 [Notebook]
-name=Airbase
+name=Airbase (Zim,\u0442\u0435\u043a\u0443\u0449\u0438\u0439)
 version=0.4
 endofline=dos
-profile=
+profile=None
 home=Home
 icon=~/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/photo.jpg
 document_root=None
