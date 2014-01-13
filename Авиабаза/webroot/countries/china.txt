@@ -2,7 +2,7 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
 Creation-Date: 2014-01-14T02:55:02+04:00
 
-====== china ======
+====== cКНРa ======
 Created Tuesday 14 January 2014
 
 #find-tag КНР
