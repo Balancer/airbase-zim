@@ -1,0 +1,7 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2014-01-23T15:47:32+04:00
+
+====== J ======
+Created Четверг 23 Январь 2014
+

@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2014-01-23T15:42:10+04:00
+
+====== Графические материалы ======
+Created Четверг 23 Январь 2014
+
+@сравнения @авиатехника
+
+{{./su-27-j-20-t-50-f-22.jpg?width=640}}
