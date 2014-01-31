@@ -2,25 +2,31 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
 Creation-Date: 2014-01-31T08:38:41+04:00
 
-====== RQ-21A ======
+====== Boeing Insitu RQ-21 Blackjack ======
 Created Friday 31 January 2014
 
 @RQ-21A @БПЛА @США @Insitu @Boeing
 
 {{./rq-21a-blackjack.jpg?width=300}}
 
+* Тип: разведывательный БПЛА
+* Разработчик: Insitu, подразделение Boeing, США
+* Первый полет: 28 июля 2012
+* Проект: STUAS (Small Tactical Unmanned Aircraft System)
+* Стоимость программы: $559 млн (включая производство 107 систем до 2017 г)
+
+
 ===== ТТХ =====
-• Разработчик: Insitu, подразделение Boeing
 • Длина: 2.4 м
 • Размах крыла: 4.8 м
 • Масса: 34 кг
+• Максимальный взлётный вес: 61 кг
 • Масса полезной нагрузки: 10 кг
-• Скорость: до 167 км/ч
-• Потолок: около 6000 м.
+• Максимальная скорость: 167 км/ч
+• Крейсерская скорость: 101 км/ч
+• Потолок: около 6000 м (19500 футов).
 • Время полёта: до 24 часов.
 • Дальность действия: около 1000 км
-• Первый полет: июль 2012
-• Проект: STUAS (Small Tactical Unmanned Aircraft System)
 
 
 === Оснащение ===
@@ -35,3 +41,5 @@ Created Friday 31 January 2014
 
 ===== Ссылки =====
 * [[http://forums.airbase.ru/2014/01/t89161--rq-21a-blackjack.3290.html|RQ-21A Blackjack, новости]]
+* [[http://en.wikipedia.org/wiki/Boeing_Insitu_RQ-21_Blackjack|Boeing Insitu RQ-21 Blackjack]]
+
