@@ -1,0 +1,18 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2014-02-09T05:54:25+04:00
+
+====== BAE Taranis ======
+Created Sunday 09 February 2014
+
+Британский демонстратор программы UCAV (Unmanned Combat Air Vehicle).
+{{./taranis_supersonic_uav.jpg?width=300}}
+
+===== Видео =====
+* http://www.youtube.com/watch/?v=uXS1iGx03eg
+
+===== Ссылки =====
+* http://en.wikipedia.org/wiki/BAE_Systems_Taranis
+* http://forums.airbase.ru/2010/07/t70439--2010-07-12-bae-systems-vykatyvaet-taranis.html
+
+
