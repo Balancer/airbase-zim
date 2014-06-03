@@ -2,7 +2,7 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
 Creation-Date: 2014-01-14T02:34:03+04:00
 
-====== z ======
+====== Авиатехника на «Z» ======
 Created Tuesday 14 January 2014
 
-[[+z-19|Harbin Z-19, ударный вертолёт, КНР]]
+* [[+z-19|Harbin Z-19, ударный вертолёт, КНР]]
