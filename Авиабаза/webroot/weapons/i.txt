@@ -2,7 +2,7 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
 Creation-Date: 2014-06-10T02:29:34+04:00
 
-====== И ======
+====== Оружие на «И ======
 Created Tuesday 10 June 2014
 
 * [[+9k338-igla-s|ПЗРК 9К338 «Игла-С» («Игла-Супер»)]]
