@@ -6,6 +6,7 @@ Creation-Date: 2014-01-14T02:35:46+04:00
 Created Tuesday 14 January 2014
 
 ===== По алфавиту =====
+* [[+g|G]]
 * [[+r|R]]
 * [[+t|T]]
 * [[+w|W]]
